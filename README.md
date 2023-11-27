@@ -52,6 +52,6 @@ async function fetchQuotes(count) {
     return quotes;
 }
 
-// Replace 'YOUR_BOT_TOKEN' with your actual bot token
+
 client.login('YOUR_BOT_TOKEN');
 
